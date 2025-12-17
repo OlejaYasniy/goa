@@ -11,5 +11,5 @@ if __name__ == "__main__":
     a = int(input())
     print("Введите b:")
     b = int(input())
-    print("c =", get_hypotenuse(a,b))
-    print("S =", get_area(a,b))
+    print("c =", get_hypotenuse(a, b))
+    print("S =", get_area(a, b))
